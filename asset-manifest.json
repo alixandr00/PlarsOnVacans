@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/PlarsOnVacans/static/css/main.f855e6bc.css",
-    "main.js": "/PlarsOnVacans/static/js/main.3ef54307.js",
+    "main.css": "/PlarsOnVacans/static/css/main.01dbb349.css",
+    "main.js": "/PlarsOnVacans/static/js/main.9f62087a.js",
     "index.html": "/PlarsOnVacans/index.html",
-    "main.f855e6bc.css.map": "/PlarsOnVacans/static/css/main.f855e6bc.css.map",
-    "main.3ef54307.js.map": "/PlarsOnVacans/static/js/main.3ef54307.js.map"
+    "main.01dbb349.css.map": "/PlarsOnVacans/static/css/main.01dbb349.css.map",
+    "main.9f62087a.js.map": "/PlarsOnVacans/static/js/main.9f62087a.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.3ef54307.js"
+    "static/css/main.01dbb349.css",
+    "static/js/main.9f62087a.js"
   ]
 }
